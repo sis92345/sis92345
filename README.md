@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=Welcome%20To%20BH's%20Github&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
-![Ted's github stats](https://github-readme-stats.vercel.app/api?username=sis92345&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sis92345&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 <p align="center">
